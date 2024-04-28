@@ -14,6 +14,12 @@ This repository hosts the implementation of neural network models for analyzing 
 ### Prerequisites
 - python 3.9 or above
 - pip
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- pytorch
+- optuna
 
 ### Dependencies
 Install all necessary Python libraries using pip:
