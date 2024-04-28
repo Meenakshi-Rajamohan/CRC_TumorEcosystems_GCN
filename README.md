@@ -1,4 +1,4 @@
-# Discerning the Tumor Ecosystems in Colorectal Cancer (CRC) with Neural Networks
+# Discerning the Tumor Ecosystems in Colorectal Cancer with Neural Networks
 
 **Author:** Meenakshi Raja Mohan  
 **Institution:** School of Informatics and Computing, Indiana University (IUPUI)  
