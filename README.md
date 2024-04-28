@@ -18,7 +18,7 @@ This repository hosts the implementation of neural network models for analyzing 
 ### Dependencies
 Install all necessary Python libraries using pip:
 ```bash
-pip install numpy pandas matplotlib scikit-learn pytorch optuna
+pip install numpy pandas matplotlib scikit-learn pytorch optuna ```
 
 ## Usage
 
@@ -29,7 +29,7 @@ This project contains two primary scripts designed to analyze colorectal cancer 
 - **Purpose:** This script processes spatial transcriptomics data to identify distinct tumor ecosystems in colorectal cancer tissue using a combination of Graph Convolutional Networks (GCN) and k-means clustering.
 - **How to Run:**
   ```bash
-  python identify_ecotypes.py
+  python identify_ecotypes.py ```
   
   
   
@@ -38,4 +38,4 @@ This project contains two primary scripts designed to analyze colorectal cancer 
 - **Purpose:** Utilizes gene expression data from The Cancer Genome Atlas (TCGA) to train a neural network with a Cox proportional hazards layer for predicting patient survival.
 - **How to Run:**
   ```bash
-  python survival_prediction.py
+  python survival_prediction.py ```
